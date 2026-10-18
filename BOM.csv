@@ -1,14 +1,12 @@
 
 ## Bill of Materials (BOM)
 
-| Component | Quantity | Price (INR) | Type |
-| :--- | ---: | ---: | :--- |
-| [Type-C Charging Module TP4056](https://www.amazon.in/gp/product/B0H2FYFPBK/ref=ox_sc_act_title_2?smid=A34PJ5KZY8MQO6&psc=1) | 1 | ₹38 | Required |
-| [1000mAh Battery](https://www.amazon.in/gp/product/B0H6KN66FS/ref=ox_sc_act_title_4?smid=A9I7VO7I5SLH4&psc=1) | 1 | ₹370 | Required |
-| [8 Watt Cool White 6500K LED](https://www.amazon.in/gp/product/B0FWR97L2K/ref=ox_sc_act_title_3?smid=A366YFPXO3CTI5&psc=1) | 1 | ₹80 | Required |
-| [2-Pin On/Off Push Button Switch](https://www.amazon.in/gp/product/B0BBCCZ8SH/ref=ox_sc_act_title_1?smid=A366YFPXO3CTI5&psc=1) | 1 | ₹50 | Required |
-| | | | |
-| | | | |
-| | | | |
+| Component                                                                                                                                                                                       | Quantity | Price (INR) | Type     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------: | -------- |
+| [Type-C Charging Module TP4056](https://www.amazon.in/gp/product/B0H2FYFPBK/ref=ox_sc_act_title_2?smid=A34PJ5KZY8MQO6&psc=1)                                                                    |        1 |         ₹38 | Required |
+| [1000mAh Battery](https://www.amazon.in/gp/product/B0H6KN66FS/ref=ox_sc_act_title_4?smid=A9I7VO7I5SLH4&psc=1)                                                                                   |        1 |        ₹370 | Required |
+| [8 Watt Cool White 6500K LED](https://www.amazon.in/gp/product/B0FWR97L2K/ref=ox_sc_act_title_3?smid=A366YFPXO3CTI5&psc=1)                                                                      |        1 |         ₹80 | Required |
+| [2-Pin On/Off Push Button Switch](https://www.amazon.in/gp/product/B0BBCCZ8SH/ref=ox_sc_act_title_1?smid=A366YFPXO3CTI5&psc=1)                                                                  |        1 |         ₹50 | Required |
 
-**Complete Build Cost: ₹538 / $6**
+
+### Complete Build — ₹538 / $6
