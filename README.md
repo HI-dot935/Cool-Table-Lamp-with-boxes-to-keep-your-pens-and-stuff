@@ -27,3 +27,7 @@ A cool warm white light not much bright not to dim just proper to keep the vibe 
 ## Note for 3d printed box
 Material any works I'm using PLA.
 
+## Build & Case Explanation ( How things will be fixed in case and placement of components)
+#### So the led I have chosen and mentioned in the BOM is circular and of size 48mm so to fit it facing outwards I made 3 holes in case of size 50mm so that it easily fits and pasted with double tape so it sticks with the case. Three holes for 3 led because these led module come in packs of 3. 
+
+#### Then about the small box with one side opened it.
