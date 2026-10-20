@@ -32,8 +32,7 @@ Material any works I'm using PLA.
 <img width="760" height="343" alt="Screenshot 2026-10-20 at 12 09 39 PM" src="https://github.com/user-attachments/assets/bd845da5-e60a-46fb-b1ab-fce84f84c876" />
 
 
-#### Then about the small box with two side opening in it. This small box is to accommodate the 1000mah battery and on top of it the tp4056 type c charging module.
-the two outlets in main case are for the charging port and the smaller one is where the switch will be placed. So there's a very little mess visible after connecting everything properly.
+#### Then about the small box with two side opening in it. This small box is to accommodate the 1000mah battery and on top of it the tp4056 type c charging module. The two outlets in main case are for the charging port and the smaller one is where the switch will be placed. So there's a very little mess visible after connecting everything properly.
 <img width="862" height="415" alt="Screenshot 2026-10-20 at 11 51 08 AM" src="https://github.com/user-attachments/assets/8176e324-2b6e-47ae-b72c-d274bcb9acb3" />
 
 #### As you can see here how the small case will be placed and sticked to the main body only 2 small wires will be out from there to connect the led's with switch and battery.
