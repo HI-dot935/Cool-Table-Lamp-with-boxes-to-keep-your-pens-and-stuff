@@ -1,6 +1,6 @@
 # Cool-Table-Lamp-with-boxes-to-keep-your-pens-and-stuff
 
-<img width="953" height="422" alt="Screenshot 2026-10-18 at 8 05 26 PM" src="https://github.com/user-attachments/assets/b37b5be9-ea64-4db2-8a47-9c1654758b07" />
+<img width="866" height="479" alt="Screenshot 2026-10-20 at 12 09 15 PM" src="https://github.com/user-attachments/assets/7db0ca65-76bc-46b1-89aa-864a121d1ade" />
 
 # What's this?
 So this is a cool table lamp with box to keep your pens and stuff with rechargeable battery. So when powercut is there you have an backup emergency lamp kinda also.
@@ -13,7 +13,7 @@ Not much fancy but use wise it's alot helpful for many.
 A cool warm white light not much bright not to dim just proper to keep the vibe right and area bright.
 
 ### The Case (made in tinkercad)
-<img width="953" height="422" alt="Screenshot 2026-10-18 at 8 05 26 PM" src="https://github.com/user-attachments/assets/4941a9bf-5c65-414d-b438-a0406b5ccc3f" />
+<img width="866" height="479" alt="Screenshot 2026-10-20 at 12 09 15 PM" src="https://github.com/user-attachments/assets/7db0ca65-76bc-46b1-89aa-864a121d1ade" />
 
 ### The PCB (made in kicad)
 <img width="967" height="511" alt="Screenshot 2026-10-18 at 6 35 58 PM" src="https://github.com/user-attachments/assets/bce1fa3e-7414-4dd4-97c0-d08d7c2b9589" />
@@ -29,5 +29,12 @@ Material any works I'm using PLA.
 
 ## Build & Case Explanation ( How things will be fixed in case and placement of components)
 #### So the led I have chosen and mentioned in the BOM is circular and of size 48mm so to fit it facing outwards I made 3 holes in case of size 50mm so that it easily fits and pasted with double tape so it sticks with the case. Three holes for 3 led because these led module come in packs of 3. 
+<img width="760" height="343" alt="Screenshot 2026-10-20 at 12 09 39 PM" src="https://github.com/user-attachments/assets/bd845da5-e60a-46fb-b1ab-fce84f84c876" />
 
-#### Then about the small box with one side opened it.
+
+#### Then about the small box with two side opening in it. This small box is to accommodate the 1000mah battery and on top of it the tp4056 type c charging module.
+the two outlets in main case are for the charging port and the smaller one is where the switch will be placed. So there's a very little mess visible after connecting everything properly.
+<img width="862" height="415" alt="Screenshot 2026-10-20 at 11 51 08 AM" src="https://github.com/user-attachments/assets/8176e324-2b6e-47ae-b72c-d274bcb9acb3" />
+
+#### As you can see here how the small case will be placed and sticked to the main body only 2 small wires will be out from there to connect the led's with switch and battery.
+<img width="896" height="370" alt="Screenshot 2026-10-20 at 11 52 05 AM" src="https://github.com/user-attachments/assets/71c81210-669a-4dbc-ab04-9b679214f4a7" />
