@@ -31,6 +31,9 @@ Material any works I'm using PLA.
 #### So the led I have chosen and mentioned in the BOM is circular and of size 48mm so to fit it facing outwards I made 3 holes in case of size 50mm so that it easily fits and pasted with double tape so it sticks with the case. Three holes for 3 led because these led module come in packs of 3. 
 <img width="760" height="343" alt="Screenshot 2026-10-20 at 12 09 39 PM" src="https://github.com/user-attachments/assets/bd845da5-e60a-46fb-b1ab-fce84f84c876" />
 
+#### Here's a small image to show how the led's are gonna be placed.
+<img width="595" height="342" alt="Screenshot 2026-10-21 at 11 00 43 PM" src="https://github.com/user-attachments/assets/acef6cad-393c-413c-a938-441bb8f6551b" />
+
 
 #### Then about the small box with two side opening in it. This small box is to accommodate the 1000mah battery and on top of it the tp4056 type c charging module. The two outlets in main case are for the charging port and the smaller one is where the switch will be placed. So there's a very little mess visible after connecting everything properly.
 <img width="862" height="415" alt="Screenshot 2026-10-20 at 11 51 08 AM" src="https://github.com/user-attachments/assets/8176e324-2b6e-47ae-b72c-d274bcb9acb3" />
