@@ -32,7 +32,7 @@ Material any works I'm using PLA.
 <img width="760" height="343" alt="Screenshot 2026-10-20 at 12 09 39 PM" src="https://github.com/user-attachments/assets/bd845da5-e60a-46fb-b1ab-fce84f84c876" />
 
 #### Here's a small image to show how the led's are gonna be placed.
-<img width="595" height="342" alt="Screenshot 2026-10-21 at 11 00 43 PM" src="https://github.com/user-attachments/assets/acef6cad-393c-413c-a938-441bb8f6551b" />
+![Uploading Screenshot 2026-10-22 at 10.10.09 PM.png…]()
 
 
 #### Then about the small box with two side opening in it. This small box is to accommodate the 1000mah battery and on top of it the tp4056 type c charging module. The two outlets in main case are for the charging port and the smaller one is where the switch will be placed. So there's a very little mess visible after connecting everything properly.
