@@ -1,6 +1,6 @@
 # Cool-Table-Lamp-with-boxes-to-keep-your-pens-and-stuff
 
-<img width="866" height="479" alt="Screenshot 2026-10-20 at 12 09 15 PM" src="https://github.com/user-attachments/assets/7db0ca65-76bc-46b1-89aa-864a121d1ade" />
+<img width="773" height="477" alt="Screenshot 2026-10-23 at 9 38 03 PM" src="https://github.com/user-attachments/assets/cbdd15b1-1641-4258-86a2-d3a71eade174" />
 
 # What's this?
 So this is a cool table lamp with box to keep your pens and stuff with rechargeable battery. So when powercut is there you have an backup emergency lamp kinda also.
@@ -12,8 +12,8 @@ Instead of making something high-tech which normally people won't even use I tho
 Not much fancy but use wise it's alot helpful for many.
 A cool warm white light not much bright not to dim just proper to keep the vibe right and area bright.
 
-### The Case (made in tinkercad)
-<img width="866" height="479" alt="Screenshot 2026-10-20 at 12 09 15 PM" src="https://github.com/user-attachments/assets/7db0ca65-76bc-46b1-89aa-864a121d1ade" />
+### The Case (made in tinkercad with an image of how led's will be placed)
+<img width="773" height="477" alt="Screenshot 2026-10-23 at 9 38 03 PM" src="https://github.com/user-attachments/assets/cbdd15b1-1641-4258-86a2-d3a71eade174" />
 
 ### The PCB (made in kicad)
 <img width="967" height="511" alt="Screenshot 2026-10-18 at 6 35 58 PM" src="https://github.com/user-attachments/assets/bce1fa3e-7414-4dd4-97c0-d08d7c2b9589" />
